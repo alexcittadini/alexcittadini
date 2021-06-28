@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexcittadini
+- 👀 I’m interested in NodeJS, React Native
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on my first commercial product
+- 📫 How to reach me alexcittadini@gmail.com
